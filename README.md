@@ -4,7 +4,7 @@ A simple script that calculates the current average grade (no weighting) display
 # To use
 Navigate to the page of the class you wish to calculate the average grade from (excluding grades of assignments exempt from grade). This page should have a list of assignments their, categories, your current overall grade and so forth.
 
-Then open the console. For Firefox and Google Chrome, this can be done by pressing command-option-i. Then, copy and paste the contents of the javascript file in this repository and press enter and then enter the category name formative assignments fall under.
+Then open the console. For Firefox and Google Chrome, this can be done by pressing command-option-i. Then, copy and paste the contents of the javascript file in this repository onto console line and press enter and then enter the category name formative assignments fall under.
 
 Or, copy and paste the following code instead and press enter and do the same thing:
 
